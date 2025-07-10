@@ -54,7 +54,7 @@ ____
 Далее функция представляется в совершенной дизъюнктивной нормальной форме (СДНФ).
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/10d7098e-6c8c-4655-a18c-0734eddb4ad5" alt="image" style="width:60%; height:auto;">
+<img src="https://github.com/user-attachments/assets/10d7098e-6c8c-4655-a18c-0734eddb4ad5" alt="image" style="width:70%; height:auto;">
 </p>
 
 После  показывается результат склеивания.
@@ -66,7 +66,7 @@ ____
 Потом демонстрируется импликантная матрица.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/2ea2ff2c-b6a8-4b05-83ee-43199bc06c24" alt="image" style="width:60%; height:auto;">
+<img src="https://github.com/user-attachments/assets/2ea2ff2c-b6a8-4b05-83ee-43199bc06c24" alt="image" style="width:70%; height:auto;">
 </p>
 
 [:arrow_up:Содержание](#Содержание)
