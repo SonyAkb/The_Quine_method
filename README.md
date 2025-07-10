@@ -32,6 +32,32 @@ ____
 
 ## Руководство пользователя
 
+Саму функцию необходимо ввестив файл Data.txt. При необходимости рабочий файл можно поменять изменив путь к нему - переменная filePath.
+
+При запуске программы перед пользователем появится таблица истинности соответсвующая введенной функции. (В данном случае функция была такая - 0101010111111111)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c7722f51-392f-4432-a39b-eb7e0af9069e" alt="image" style="width:50%; height:auto;">
+</p>
+
+Далее функция представляется в совершенной дизъюнктивной нормальной форме (СДНФ).
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/10d7098e-6c8c-4655-a18c-0734eddb4ad5" alt="image" style="width:50%; height:auto;">
+</p>
+
+После  показывается результат склеивания.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4ea048c2-ffe8-4425-bcec-e9a58dd9f06b" alt="image" style="width:50%; height:auto;">
+</p>
+
+Потом демонстрируется импликантная матрица.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2ea2ff2c-b6a8-4b05-83ee-43199bc06c24" alt="image" style="width:50%; height:auto;">
+</p>
+
 
 
 [:arrow_up:Содержание](#Содержание)
